@@ -47,17 +47,17 @@ profiles:
     url: https://orcid.org/0000-0002-9381-7049
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Dark Matter
+  - Neutrino
+  - Phenomenology
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: Ph.D. Physics
+    institution: McGill University/Unicamp
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on Dark Sectors. Supervised by [Prof Jim Cline](https://www.physics.mcgill.ca/~jcline/).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
