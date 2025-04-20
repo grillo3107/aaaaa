@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Guillermo Gambini, Ph.D.
+title: Guillermo Gambini
 
 # Name pronunciation (optional)
 # name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Guillermo
+last_name: Gambini
 
 # Status emoji
 status:
@@ -20,69 +20,51 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Universidad Nacional de Ingenieria - Facultad de Ciencias
+    url: https://fc.uni.edu.pe/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+ # - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
+    url: https://x.com/GGRG3107
+ # - icon: brands/instagram
     url: https://www.instagram.com/
-  - icon: brands/github
+ # - icon: brands/github
     url: https://github.com/gcushen
-  - icon: brands/linkedin
+ # - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: [https://scholar.google.com/](https://scholar.google.com/citations?hl=en&user=kLlZjSQAAAAJ)
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-9381-7049
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Dark Matter
+  - Neutrino Physics
+  - Phenomenology
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D. Physics
+    institution: McGill University/Unicamp
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on Dark Sectors. Supervised by [Prof Jim Cline](https://www.physics.mcgill.ca/~jcline/). 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+- area: M.Sc. Physics
+    institution: Universidade Estadual de Campinas (Unicamp)
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis on GLR equation. Supervised by [Prof. Giorgio Torrieri](https://sites.ifi.unicamp.br/torrieri/)
+  - area: B.Sc. Physics
+    institution: Universidad Nacional de Ingenieria (UNI)    
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -183,4 +165,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I graduated in Physics from the National University of Engineering in Peru. Then, I moved to Brazil and got a Master's degree in Physics from the State University of Campinas (Unicamp) working on relativistic heavy-ion collisions. For the Ph.D., also in Physics, I got enrolled in the first joint Ph.D./cotutelle program between Unicamp and McGill University in Canada. I worked on new models of dark matter: asymmetric dark matter, heavy neutral leptons, and decaying dark matter. I also have experience in vacuum stability, 3-3-1 and B-L models, dark photons and indirect detection of dark matter.
