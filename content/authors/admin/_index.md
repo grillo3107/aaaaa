@@ -53,7 +53,7 @@ interests:
 
 education:
   - area: Ph.D. Physics
-    institution: McGill University/Unicamp
+    institution: McGill University & Unicamp
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -62,7 +62,7 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: M.Sc. Physics
-    institution: University of Campinas
+    institution: State University of Campinas (Unicamp)
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
