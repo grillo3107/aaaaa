@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I graduated in Physics from the National University of Engineering in Peru. Then, I moved to Brazil and got a Master's degree in Physics from the State University of Campinas (Unicamp) working on relativistic heavy-ion collisions. For the Ph.D., also in Physics, I got enrolled in the first joint Ph.D./cotutelle program between Unicamp and McGill University in Canada. I worked on new models of dark matter: asymmetric dark matter, heavy neutral leptons, and decaying dark matter. I also have experience in vacuum stability, 3-3-1 and B-L models, dark photons and indirect detection of dark matter.
