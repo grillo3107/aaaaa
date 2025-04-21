@@ -6,7 +6,7 @@ title: Guillermo Gambini
 # name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Guillermow
+first_name: Guillermo
 last_name: Gambini
 
 # Status emoji
