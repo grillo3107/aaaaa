@@ -36,10 +36,6 @@ sections:
       subtitle: ''
       text: |-
         My current research focuses on dark photons, dark matter indirect detection, and heavy neutral leptons.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
